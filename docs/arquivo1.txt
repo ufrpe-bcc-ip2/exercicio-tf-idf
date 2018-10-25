@@ -1,0 +1,2 @@
+TF-IDF (Term Frequency - Inverse Document Frequency) é uma medida estatística que tem o intuito de indicar a importância
+de uma palavra de um documento em relação a uma coleção de documentos ou em um corpus.

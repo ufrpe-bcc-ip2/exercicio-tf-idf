@@ -1,4 +1,4 @@
-package br.ufrpe.bcc.ip2.utils;
+package br.ufrpe.bcc.ip2.tfidf.utils;
 
 import java.io.File;
 import java.util.Scanner;
